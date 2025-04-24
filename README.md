@@ -1,0 +1,10 @@
+# emails
+title: Demo4
+emoji: 😻
+colorFrom: pink
+colorTo: green
+sdk: streamlit
+sdk_version: 1.44.1
+app_file: app.py
+pinned: false
+license: cc
